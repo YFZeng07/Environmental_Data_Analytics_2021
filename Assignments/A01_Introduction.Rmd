@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1: Introduction"
-author: "Student Name"
+author: "Yingfan Zeng"
 output: pdf_document
 geometry: margin=2.54cm
 ---
@@ -22,21 +22,20 @@ The completed exercise is due on <>.
 
 1. What are your previous experiences with data analytics, R, and Git? Include both formal and informal training.
 
-> Answer: 
+> Answer: I started learning R by myself from zero in June 2019 for my undergraduate reserach project. I know nothing about any kind of programming at that time but somehow finished the project analyzing a complex data set with the help of the Internet. The first time I learned R in class was in ENV710 in the fall 2020 semester. It was also my first formal statistics course. I heard of Git for the first time in the winter breakaway Python course, but I did not learned much about neither Python nor Git. 
 
 2. Are there any components of the course about which you feel confident?
 
-> Answer: 
+> Answer: I am confident in the basic use of R relatively. With about 2 years of experience in R, I am familar with many of the commom commands and packages. However, I have never taken systematic and formal R training, so I have no comprehensive understanding, which limits me when solving some problems. This is what I would like to learn in this course. 
 
 3. Are there any components of the course about which you feel apprehensive?
 
-> Answer: 
-
+> Answer: I am kind of worried about the final project. We have a lot of freedom to find our own data set and study our own research questions. The freedom is both exciting and scary. 
 
 ## 2) GitHub
 
 Provide a link below to your forked course repository in GitHub. Make sure you have pulled all recent changes from the course repository  and that you have updated your course README file. 
 
-> Answer: 
+> Answer: https://github.com/YFZeng07/Environmental_Data_Analytics_2021.git
 
 
